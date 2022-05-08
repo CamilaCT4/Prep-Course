@@ -1,0 +1,12 @@
+- Variables: forma de almacenar el valor de algo para usar en un futuro. Para crear una variable hay que poner "var", seguido de un espacio y el "nombre de la variable".
+Para asignarle un valor, a lo antes escrito agregarle el signo "=". 
+Hay tres formas de declarar una variable: 
+1- var
+2-let
+3- const
+- String: son bloques de texto, palabras o hilo de caracteres que siempre van entre comillas.
+- Funciones: agrupan codigos y los guarda en un lugar para luego poder ejecutarlas las veces que sean necesarias. 
+Las funciones pueden tener Argumentos, que son variables que declaramos adentro de la funcion que toman un valor cuando se invoque la misma. 
+Las funciones pueden o no devolver datos, si queremos que devuelva, usamos la Funcion Retorn que devuelve un valor cuando completamos la Funcion.
+- Declaraciones if:es una funcion que nos permite ejecutar una sentencia si se cumple una condicion, caso contrario, se ejecuta otra sentencia. 
+- Valores booleanos: significa que tiene 2 opciones, siendo los valores posibles, TRUE o FALSE. 
